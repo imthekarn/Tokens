@@ -1,6 +1,6 @@
 {
-    "version": 1,
-    "message": "สวัสดีจาก GitHub",
-    "price": 100,
+    "version": 2,
+    "message": "แก้ข้อมูลออนไลน์แล้ว!",
+    "price": 150,
     "enabled": true
 }
