@@ -1,6 +1,6 @@
 {
-    "version": 1,
-    "message": "สวัสดีจาก GitHub จ้า",
-    "price": 100,
-    "enabled": true
+    "version": 999,
+    "message": "TEST-ABC-999",
+    "price": 9999,
+    "enabled": false
 }
